@@ -4,6 +4,9 @@ Analysis data from "The multi sensor-based machining signal fusion to compare th
 
 use 12 variables derived from 7 sensory data to define anomaly range
 
+With label augmentation in continuous tool wear values & categorical label(abnormal, normal, prognostic)
+
+
 
 @data{DVN/7IAJWU_2022,
 author = {Pramod A and Deepak Lawrence K and Jose Mathew},
